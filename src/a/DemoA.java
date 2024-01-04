@@ -9,5 +9,9 @@ public static void main(String[] args) {
 	 
 	 System.out.println("Sprint 1 work..");
 	 System.out.println("Sprint 2 work..");
+
+	//coming from gitHub
+	public static void subtract(){
+		system.out.println(a-b);
 }
 }
